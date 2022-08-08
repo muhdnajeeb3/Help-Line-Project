@@ -1,0 +1,33 @@
+.logo{
+    margin-left:1.5rem ;
+}
+.nav-link{
+    color: #f00;
+    margin-left: auto;
+    
+}
+.logoname{
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}
+.nav-link {
+    display: block;
+    margin-left: auto;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    color: rgb(11 0 0 / 96%);
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+nav .navbar-nav li a{
+    color: rgb(12, 1, 1) !important;
+    cursor: pointer;
+    
+    }
+    .navbar-nav{
+        margin-left: auto;
+
+    }
+    
