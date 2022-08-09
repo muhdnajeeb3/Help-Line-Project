@@ -3,11 +3,11 @@
     text-align: center;
     background-color: black;
     color: aliceblue;
-    display:block;
+    display:cover;
     height: 3rem;
-    
-    width: 100%;
+    /* width: 100%; */
 }
-/* .fa-solid-fa-c{
-    color: aliceblue;
-} */
+.text{
+    margin-top: 3rem;
+    padding-top: 0.5rem;
+}

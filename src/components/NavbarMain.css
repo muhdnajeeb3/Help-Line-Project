@@ -1,15 +1,18 @@
-.logo{
-    margin-left:1.5rem ;
+.link{
+    color: aliceblue;
 }
 .nav-link{
-    color: #f00;
+    color: rgb(213, 22, 22);
     margin-left: auto;
     
 }
 .logoname{
-    color: #fff;
+    color: rgb(234, 240, 242);
     text-decoration: none;
     cursor: pointer;
+    margin-left:1.5rem ;
+    font-style: italic;
+
 }
 .nav-link {
     display: block;
@@ -30,4 +33,6 @@ nav .navbar-nav li a{
         margin-left: auto;
 
     }
-    
+.logoname:hover{
+    color: rgb(12, 236, 64);
+}

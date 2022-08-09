@@ -16,6 +16,7 @@
     
     padding:4rem ;
     font-size: large;
+    font-style: italic;
     
     
 }
@@ -24,4 +25,5 @@
     color: rgb(7, 243, 235);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-top: 5rem;
+    font-style: italic;
 }

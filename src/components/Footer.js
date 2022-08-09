@@ -7,7 +7,7 @@ function Footer() {
     <div className='footer'>
         
             <Row className='footer1'>
-                <h4>
+                <h4 className='text'>
                 <i className="fa-solid fa-c"></i>All right Reserved.
                 </h4>
 

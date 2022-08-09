@@ -6,6 +6,7 @@ import Home from './components/pages/Home';
 import DoctorsScreen from './components/pages/DoctorsScreen';
 import TaxisScreen from './components/pages/TaxisScreen';
 import EmergencySCreen from './components/pages/EmergencyScreen';
+import ChildSpecialist from './components/pages/ChildSpecialist';
 
 
 
@@ -19,6 +20,7 @@ function App() {
       <Route exact path='/doctors' element={<DoctorsScreen/>} />
       <Route exact path='/taxis' element={<TaxisScreen/>} />
       <Route exact path='/emergency' element={<EmergencySCreen/>} />
+      <Route exact path='/childSpecialist' element={<ChildSpecialist/>} />
           
       </Routes>
     </Router>

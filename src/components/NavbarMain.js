@@ -1,7 +1,6 @@
 import React from 'react'
 import { Nav,Navbar } from 'react-bootstrap';
 import './NavbarMain.css';
-import logo from '../images11/1234.jpg'
 // import { Link } from 'react-router-dom';
 
 function NavbarMain() {
@@ -10,7 +9,7 @@ function NavbarMain() {
         <Navbar bg='dark'  variant='dark' sticky='top' expand='lg'>
           <Navbar.Brand>
             
-            <img  className='logo' src={logo} width='40px' height='40px' alt='lll'/> <a className='logoname' href="/">Logo</a> {''}
+            <a className='logoname' href="/">TownHall Ward</a> {''}
             
             </Navbar.Brand>
             <Navbar.Toggle />

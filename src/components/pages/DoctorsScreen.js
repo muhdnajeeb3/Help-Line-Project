@@ -18,7 +18,7 @@ function DoctorsScreen() {
         <Card.Text className='text1'>
           Place : Thalassery
         </Card.Text>
-        <Link to=''>
+        <Link to='/'>
         <Button className='button' variant="primary">Dentist List</Button>
         </Link>
       </Card.Body>
@@ -63,7 +63,7 @@ function DoctorsScreen() {
         <Card.Text>
         Place : Thalassery
         </Card.Text>
-        <Link to=''>
+        <Link to='/childspecialist'>
         <Button variant="primary">Child Specialist List</Button>
         </Link>
       </Card.Body>
