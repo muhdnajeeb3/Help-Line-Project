@@ -12,13 +12,13 @@ function DoctorsScreen() {
         <Row>
             <Col>
     <Card  className='cardbody' style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="d.jpg"  />
+      <Card.Img variant="top" src="d.jpg"  className='doctors'/>
       <Card.Body>
         <Card.Title>DENTIST</Card.Title>
         <Card.Text className='text1'>
           Place : Thalassery
         </Card.Text>
-        <Link to='/'>
+        <Link to=''>
         <Button className='button' variant="primary">Dentist List</Button>
         </Link>
       </Card.Body>
@@ -26,7 +26,7 @@ function DoctorsScreen() {
     </Col>
     <Col>
     <Card  className='cardbody' style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="d.jpg" />
+      <Card.Img variant="top" src="d.jpg" className='doctors'/>
       <Card.Body>
         <Card.Title>ENT Specialist</Card.Title>
         <Card.Text className='text1'>
@@ -40,7 +40,7 @@ function DoctorsScreen() {
     </Col>
     <Col>
     <Card  className='cardbody' style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="d.jpg" />
+      <Card.Img variant="top" src="d.jpg"  className='doctors'/>
       <Card.Body>
         <Card.Title>Gynecolgist</Card.Title>
         <Card.Text className='text1'>
@@ -57,7 +57,7 @@ function DoctorsScreen() {
     <Row>
             <Col>
     <Card  className='cardbody' style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="d.jpg"  />
+      <Card.Img variant="top" src="d.jpg"  className='doctors'/>
       <Card.Body>
         <Card.Title>Child Specialist</Card.Title>
         <Card.Text>
@@ -71,7 +71,7 @@ function DoctorsScreen() {
     </Col>
     <Col>
     <Card  className='cardbody' style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="d.jpg" />
+      <Card.Img variant="top" src="d.jpg" className='doctors'/>
       <Card.Body>
         <Card.Title>Cardiologist</Card.Title>
         <Card.Text>

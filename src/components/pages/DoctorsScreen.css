@@ -11,3 +11,6 @@
 .text1{
     height: 2rem;
 }
+.doctors{
+    object-fit: contain;
+}

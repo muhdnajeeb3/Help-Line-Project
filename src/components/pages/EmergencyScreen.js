@@ -5,10 +5,10 @@ const obj = {
   age:'12'
 }
 
-function EmergencySCreen() {
+function EmergencySCreen(props) {
   return (
     <div>Emergency
-      <h1>{obj.title}</h1>
+      <h1>{obj.title},{props.age}</h1>
     </div>
   )
 }

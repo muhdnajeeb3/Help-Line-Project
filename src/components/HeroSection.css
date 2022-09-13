@@ -14,9 +14,13 @@
     color:rgb(248, 252, 251);
     font-family:'Times New Roman', Times, serif;
     
-    padding:4rem ;
+    /* padding:4rem ; */
     font-size: large;
     font-style: italic;
+    /* margin-bottom: 1rem;
+     */
+     margin: 1rem;
+     /* margin-bottom: 2rem; */
     
     
 }

@@ -1,5 +1,6 @@
 .link{
     color: aliceblue;
+    margin-right: 1rem!important;
 }
 .nav-link{
     color: rgb(213, 22, 22);
@@ -12,6 +13,7 @@
     cursor: pointer;
     margin-left:1.5rem ;
     font-style: italic;
+    font-weight: bold;
 
 }
 .nav-link {
@@ -33,6 +35,6 @@ nav .navbar-nav li a{
         margin-left: auto;
 
     }
-.logoname:hover{
-    color: rgb(12, 236, 64);
-}
+/* .logoname:hover{
+    color: ;
+} */

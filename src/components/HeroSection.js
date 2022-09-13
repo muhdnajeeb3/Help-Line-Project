@@ -1,9 +1,11 @@
 import React from 'react'
 import './HeroSection.css'
+import NavbarMain from './NavbarMain'
 
 function HeroSection() {
   return (
     <div className='herosection' >
+      <NavbarMain />
         
         <h1 className='helpline1'>HELP LINE</h1>
         <p className='helpline'>This page is for your needs!!<br></br>

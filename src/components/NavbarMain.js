@@ -6,7 +6,7 @@ import './NavbarMain.css';
 function NavbarMain() {
   return (
     <div>
-        <Navbar bg='dark'  variant='dark' sticky='top' expand='lg'>
+        <Navbar   variant='dark' sticky='top' expand='lg'>
           <Navbar.Brand>
             
             <a className='logoname' href="/">TownHall Ward</a> {''}
